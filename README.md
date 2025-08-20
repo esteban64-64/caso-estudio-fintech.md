@@ -1,9 +1,9 @@
 # caso-estudio-fintech.md
 #### integrantes grupo 
-- dayan mape 
+- Dayan Mape 
 - Valentina Mendivil 
 - Felipe Mesa
-- nelson mejia 
+- Nelson Mejia 
 ## Fintech Verde Colombia objetivos de negocio
 Fintech Verde Colombia quiere conquistar Centroamérica, pero necesita balancear crecimiento agresivo
  con cumplimiento regulatorio y sostenibilidad tecnológica.
