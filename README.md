@@ -1,6 +1,6 @@
 # caso-estudio-fintech.md
 #### integrantes grupo 
-- Dayan Mape 
+- dayan mape 
 - Valentina Mendivil 
 - Felipe Mesa
 - Nelson Mejia 
